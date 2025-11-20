@@ -1,0 +1,4 @@
+# aur-repro
+/x86_64/build/
+/x86_64/cache/
+/x86_64/cache.lock
